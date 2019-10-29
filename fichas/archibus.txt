@@ -1,0 +1,3 @@
+nombrew : on
+edad: sinestilo
+oficia: nada de estilo verdadero

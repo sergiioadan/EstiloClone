@@ -1,0 +1,3 @@
+nombrew : sergio
+edad: estilo
+oficia: 100 % estilo verdadero

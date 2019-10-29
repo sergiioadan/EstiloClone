@@ -1,0 +1,3 @@
+nombrew : Aveces
+edad: tengo
+oficia: hambre
